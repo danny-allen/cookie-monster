@@ -24,7 +24,7 @@ Just include the object and use it as shown below.
     $cookieMonster->grab('cookieName');
 
     //destory your cookie
-    $cookieMonster->grab('cookieName');
+    $cookieMonster->eat('cookieName');
 
 
 ## Options
