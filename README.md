@@ -10,7 +10,7 @@ Just include the object and use it as shown below.
 
 ## Usage
 
-
+```php
     //instantiate cookie object
     $cookieMonster = new CookieMonster();
 
@@ -25,7 +25,7 @@ Just include the object and use it as shown below.
 
     //destory your cookie
     $cookieMonster->eat('cookieName');
-
+```
 
 ## Options
 
